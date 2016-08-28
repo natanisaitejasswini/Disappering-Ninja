@@ -1,0 +1,9 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+img{
+	width: 70px;
+	height: 90px;
+	display: inline-block;
+}
